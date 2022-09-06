@@ -1,4 +1,5 @@
 # CDUT-Master-Thesis-LaTeX-Template
+
 This is a LaTeX template for a master's thesis written for Chengdu University of Technology. In view of the tediousness of building a TeX Live environment, I recommend writing this template on the online platform Overleaf.
 
 Click the green Code button in the upper right corner and select to download the .zip archive. On the Overleaf website, click Create New Project, select Upload Project, and drag the downloaded archive into the dialog box to use this template in Overleaf.
