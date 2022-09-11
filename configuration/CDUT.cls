@@ -68,7 +68,7 @@
 %----------------设置非章首页的页眉页脚----------------%
 \pagestyle{fancyplain}                       %页面样式
 \fancyhf{}                                   %清除以前对页眉页脚的设置
-\fancyhead[CE]{\song \zihao{-5} 成都理工大学硕士学位论文}                                              %偶数页页眉为院校年届信息
+\fancyhead[CE]{\song \zihao{-5} 成都理工大学地球物理学专业硕士学位论文}                                              %偶数页页眉为院校年届信息
  \fancyhead[CO]{\song \zihao{-5} \leftmark}  %奇数页页眉为章节名
  \fancyfoot[C]{\song \zihao{-5} \thepage} 
 %----------------设置章首页页眉页脚----------------%
@@ -106,7 +106,7 @@
     %\textbf{成都理工大学}}\\
     \vspace{0.5cm}
     {\song \zihao{2} \ziju{0.5}
-    \textbf{硕士学位论文}\\}
+    \textbf{地球物理学专业硕士学位论文}\\}
     %\vspace{1cm}
      \vfill\vfill
     {\song \zihao{4}
@@ -158,7 +158,7 @@
     \par
     \vspace*{2.5cm} %插入空白
     {\song \zihao{2}  %成都理工大学硕士学位论文
-    \textbf{成都理工大学硕士学位论文}}\\
+    \textbf{成都理工大学地球物理学专业硕士学位论文}}\\
     \vspace{1.5cm}
     {\hei \zihao{2}  %论文题目
     \textbf{\shortstack[c]{\the\timing \\ \the\futiming }}}\\
